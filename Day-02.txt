@@ -1,0 +1,13 @@
+git init
+git add
+git commit
+git log
+git log --oneline
+git log --oneline pretty
+git push origin
+gi pull origin
+git clone
+git fetch orgin
+git checkout -b branch_name
+git branch
+
