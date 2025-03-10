@@ -10,4 +10,5 @@ git clone
 git fetch orgin
 git checkout -b branch_name
 git branch
-
+git remote add origin
+git remote -v
